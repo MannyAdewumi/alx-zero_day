@@ -1,1 +1,2 @@
 git touch up_to_date\n git add up_to_date\n git commit -m "Created new file"\n
+git touch up_to_date\n git add up_to_date\n git commit -m "created new file up_to_date"\n
